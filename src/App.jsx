@@ -8,7 +8,7 @@ import Products from "./pages/Products/Products";
 
 const Layout = () => {
   return (
-    <div className="container mx-auto max-w-7xl p-2 md:p-0">
+    <div className="">
       <Navbar />
       <Outlet />
       <Footer />
